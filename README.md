@@ -79,42 +79,20 @@ k_{SI} = k_{lb/in} \times 175.12677 \; [N/m]
 $$
 
 Frecuencia natural
-𝜔
-𝑛
-=
-𝑘
-𝑚
-ω
-n
+$$
+\omega_n = \sqrt{\frac{k}{m}}
+$$
 	​
-
-=
-m
-k
-	​
-
-	​
-
 Coeficiente de amortiguamiento
-𝑐
-=
-𝜇
-⋅
-𝛼
-c=μ⋅α
-Factor de amortiguamiento
-𝜁
-=
-𝑐
-2
-𝑚
-𝑘
-ζ=
-2
-mk
-	​
+$$
+c = \mu \cdot \alpha
+$$
 
-c
+Factor de amortiguamiento
+
+$$
+\zeta = \frac{c}{2\sqrt{km}}
+$$
 	​
 
 Frecuencia amortiguada
