@@ -47,41 +47,7 @@ Finalmente:
 
 Calcula la respuesta dinámica:
 
-𝑥
-(
-𝑡
-)
-=
-𝐴
-0
-𝑒
-−
-𝜁
-𝜔
-𝑛
-𝑡
-cos
-⁡
-(
-𝜔
-𝑑
-𝑡
-)
-x(t)=A
-0
-	​
-
-e
-−ζω
-n
-	​
-
-t
-cos(ω
-d
-	​
-
-t)
+x(t)=A0​e^−ζωn​t cos(ωd​t)
 
 Grafica x(t) para mostrar el comportamiento oscilatorio amortiguado.
 
@@ -103,42 +69,15 @@ $k$ convertido a SI
 
 Coeficiente de amortiguamiento c
 
-Y una gráfica limpia de la función 
-𝑥
-(
-𝑡
-)
-x(t).
+Y una gráfica limpia de la función x(t).
 
 🧠 Cálculos principales del programa
 Conversión de unidades del resorte
-𝑘
-SI
-=
-𝑘
-lb/in
-×
-175.12677
-  
-  
-[
-𝑁
-𝑚
-]
-k
-SI
-	​
 
-=k
-lb/in
-	​
+$$
+k_{SI} = k_{lb/in} \times 175.12677 \; [N/m]
+$$
 
-×175.12677[
-m
-N
-	​
-
-]
 Frecuencia natural
 𝜔
 𝑛
