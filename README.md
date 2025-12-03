@@ -127,12 +127,12 @@ pip install pandas matplotlib openpyxl
 
 Clona el repositorio con:
 
-git clone <url_de_tu_repositorio>
+git clone <https://github.com/ThomasSan15/Proyecto-Final-Fisica3>
 
 
 Abre el proyecto en VSCode o tu IDE preferido.
 
-Ejecuta el script principal (por ejemplo main.py).
+Ejecuta el script principal (resoil.py).
 
 Ingresa los datos solicitados en las ventanas de diálogo.
 
