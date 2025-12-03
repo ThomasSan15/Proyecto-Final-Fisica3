@@ -7,13 +7,13 @@ El programa también incluye herramientas adicionales para calcular fuerza, frec
 
 📂 Archivos incluidos
 
-Resortes_resoil.xlsx → Base de datos con:
+Resortes_resoil.xlsx → Catalogo con:
 
 Constante elástica k (en lb/in)
 
 Identificación/Nombre del resorte
 
-Aceites_resoil.xlsx → Base de datos con:
+Aceites_resoil.xlsx → Catalogo con:
 
 Viscosidad cinemática a 40°C Visc_40 (mm²/s)
 
